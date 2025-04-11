@@ -79,7 +79,9 @@ Follow these steps to get the project working on your drone:
 - Line following and reactive to sharp turns.
 - Yaw correction worked based on submatrix logic.
 - The drone reliably detected the end-of-path condition and landed with precision.
-- All logic ran onboard without PC intervention after deployment.
+- All logic ran onboard without PC intervention after deployment. <br>
+
+
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/1193dfec-0a75-4560-a0ee-82f5e7155a09)
 
 
