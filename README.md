@@ -94,7 +94,7 @@ Follow these steps to get the project working on your drone:
 
 ## Documentation and Video
 - [Document](https://github.com/ChinmayAmrutkar/Autonomous-Line-Following-and-Landing-of-a-Parrot-Mambo-Minidrone-Using-Simulink/blob/main/Autonomous%20Line%20Following%20and%20Landing%20of%20a%20Parrot%20Mambo%20Minidrone%20Using%20Simulink.pdf)
-- Video
+- [Video](https://github.com/ChinmayAmrutkar/Autonomous-Line-Following-and-Landing-of-a-Parrot-Mambo-Minidrone-Using-Simulink/blob/main/video.mp4)
 
 ## 📄 License
 
